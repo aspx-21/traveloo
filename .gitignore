@@ -1,0 +1,10 @@
+# macOS junk
+.DS_Store
+
+# PyCharm project files
+.idea/
+
+# Optional: node_modules, venvs, etc.
+node_modules/
+venv/
+__pycache__/
